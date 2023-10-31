@@ -1,6 +1,7 @@
 ## Arsyadam Portofolio personal website
 
 ## <a href="https://arsyadam.id/">arsyadam.id</a>
+this website has hosted and you can access in <a href="https://arsyadam.id/">arsyadam.id</a>
 
 ### About this site
 - Build with PHP Laravel, Tailwind CSS, Livewire
